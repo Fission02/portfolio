@@ -59,7 +59,7 @@ a{
 .hamburger-icon{
     display: flex;
     flex-direction: column;
-    justify-content: space-between;
+    justify-content: space-evenly;
     height: 24px;
     width: 30px;
     cursor: pointer;

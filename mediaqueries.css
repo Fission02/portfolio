@@ -76,12 +76,16 @@
       margin-top: 10%;
       margin-right: 2.5rem;
     }
+    .section_text{
+      margin-left: 3.5rem;
+    }
     #profile {
       height: 83vh;
       margin-bottom: 8.5rem;
       gap: 2rem;
-      margin-left: -4.5rem;
+      margin-left: -7.9rem;
     }
+    
     .section-container {
       gap: 2rem;
       height: 80%;
@@ -89,6 +93,12 @@
     }
     article {
       font-size: 1rem;
+    }
+    .section__text__p1{
+      margin-left: 6.5rem;
+    }
+    .title{
+      margin-left: 6.5rem;
     }
     footer nav {
       height: fit-content;
@@ -124,15 +134,19 @@
       justify-content: center;
     }
     .section__text__p2 {
-      font-size: 1.25rem;
+      font-size: 2.25rem;
     }
     .title {
-      font-size: 2rem;
+      font-size: 3rem;
     }
     .text-container {
       text-align: justify;
+      margin-left: 2.5rem;
     }
-  
+    .section__pic-container{
+      gap: 2rem;
+      margin-left: -3.5rem;
+    }
   }
  
  
