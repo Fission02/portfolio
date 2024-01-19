@@ -47,6 +47,10 @@
     section,
     .section-container {
       height: fit-content;
+      margin-left: -7.9rem;
+    }
+    #about{
+      margin-top: 30%;
     }
     section {
       margin: 0 5%;
@@ -59,8 +63,12 @@
     .about-containers {
       margin-top: 0;
     }
+    .text-container {
+      text-align: justify;
+      margin-left: 25%;
+      
+    }
   }
-  
   @media screen and (max-width: 600px) {
     #contact,
     footer {
@@ -83,7 +91,7 @@
       height: 83vh;
       margin-bottom: 8.5rem;
       gap: 2rem;
-      margin-left: -7.9rem;
+      margin-left: -7.5rem;
     }
     
     .section-container {
@@ -146,6 +154,9 @@
     .section__pic-container{
       gap: 2rem;
       margin-left: -3.5rem;
+    }
+    #about{
+      margin-top: 30%;
     }
   }
  
