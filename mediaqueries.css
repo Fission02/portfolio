@@ -74,9 +74,9 @@
   @media screen and (max-width: 600px) {
     #hamburger-nav{
       position: absolute;
-      right: -23%;
-      gap: 398px;
-      bottom: 734px;
+      right: -11%;
+      gap: 300px;
+      bottom: 695px;
     }
     #contact,
     footer {
@@ -188,7 +188,7 @@
       margin: 10px;
       overflow: hidden;
       position: relative;
-      right: -29px;
+      right: -11px;
   }
   .about-details-container{
     margin-top: 20rem;
